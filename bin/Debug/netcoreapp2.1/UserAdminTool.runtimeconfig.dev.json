@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sawye\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sawye\\.nuget\\packages"
+    ]
+  }
+}
